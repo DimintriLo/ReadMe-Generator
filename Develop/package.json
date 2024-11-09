@@ -1,15 +1,24 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dimintri.Lo",
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DimintriLo/ReadMe-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DimintriLo/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/DimintriLo/ReadMe-Generator#readme",
+  "description": "A readme.md generator"
 }
+
